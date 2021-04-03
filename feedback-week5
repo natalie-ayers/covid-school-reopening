@@ -1,0 +1,4 @@
+This looks good to me! Let me know if you need anything else. 
+
+
+Yes, you can download it manually. It looks like you can download the actual data in the image by clicking on one of the buttons towards the bottom. You may be able to use Selenium to do this, which will count towards the scraping requirement. If not then you can just manually download the data and then doing scraping somewhere else. 

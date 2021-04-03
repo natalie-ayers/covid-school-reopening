@@ -1,0 +1,60 @@
+Note on the Rubric 
+------------------
+Although some of the grading criteria may appear subjective to you, I was as objective as possible and assigned almost all the grades using checkpoints on the essential parts that we required for the project. 
+
+The soft criterium I used is mostly concentrated on items #2 (Data Analysis) and #3 (Scope and Complexity). The final grade for those items resulted from an evaluation of all the projects as a whole. I also recognized in those rubrics team's effort and dedication. I considered a project more complex if it required different types of skills and used more diverse content we covered in during the quarter (e.g., if the team downloaded and used two ready-to-use data sets VS if the data was constructed using complex webscraping, data cleaning, record linkage, and everything was stored in a relational SQL database).
+
+Please note that these grades are final! I will not make any grade adjusts unless it is due to an arithmetic error, even if you feel the deduction is too much. Project scores are final. 
+
+As always with assignments, feel free to reach out if you do have any questions about improvement or clarification. Please respond via email if you do have any questions (not on Ed). I will be busy preparing for the next quarter so we may not have a chance to respond right away. 
+
+-------
+
+Project Evaluation Points:
+
+    - Project Requirements (See point breakdown below):
+        Points Possible: 75
+        Points Obtained: 75
+
+    - Design: & Coding Style: 
+        Points Possible: 15
+        Points Obtained: 13
+
+    - Program usability:
+        Points Possible: 10
+        Points Obtained: 10
+
+
+Total Points: 98 / 100
+
+
+Breakdown of Project Requirements:       
+
+  - Contains README and/or a pdf with textual information describing the project.
+        Points Possible: 10
+        Points Obtained: 10
+	
+  - Fulfills requirement #1: Two Data Sources(Web or API and another source)
+        Points Possible: 15
+        Points Obtained: 15
+
+  - Fulfills requirement #2: Data analysis component
+        Points Possible: 15
+        Points Obtained: 15
+
+  - Fulfills requirement #3: Project Scope & Complexity
+        Points Possible: 20
+        Points Obtained: 20
+
+
+  - Fulfills requirement #4: Visualization or Textual Component
+        Points Possible: 15
+        Points Obtained: 15
+
+
+
+Comments: Great work! Django interface looks great and very user-friendly. I think this would be a great feature to provide more information about reopening in these different cities. A few comments. 
+
+1. Your `cleaning` files can be condensed into a single file, where you define functions that work on your separate data sources. You don't need a separate module for each data source but rather define one module for doing all the necessary cleaning within various functions. 
+
+This is one of the best projects this quarter. Great job! 

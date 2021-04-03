@@ -1,0 +1,11 @@
+descartes==1.1.0
+Django==2.0.2
+geopandas==0.8.2
+pandas==1.2.3
+pygeos==0.9
+regex==2020.11.13
+requests==2.25.1
+Rtree==0.9.7
+sodapy==2.1.0
+turfpy==0.0.5
+xlrd==2.0.1
